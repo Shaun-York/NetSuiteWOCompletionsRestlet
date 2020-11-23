@@ -1,5 +1,5 @@
 # NetSuiteWOCompletionsRestlet
-NetSuite Restlet that (mk|rm) Work Order Completions
+NetSuite SuiteScript - Restlet that (mk|rm) Work Order Completions
 
 ## Payload - Completion table columns
 
